@@ -6,10 +6,6 @@
     "scripts": {
         "test": "echo \"No test specified\" && exit 1"
     },
-  "repository": {
-       "type": "git",
-       "url": "git+https://github.com/AstroLive8333/fallout-terminal.git"
-   },
    "author": "RobCo",
    "license": "ISC",
 
