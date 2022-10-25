@@ -79,6 +79,9 @@ main span {
 .hl4{
   color: tomato;
 }
+.hl5{
+ color: deeppink;   
+}
 
 .blink {
   animation: blink 1.2s step-end forwards infinite;
