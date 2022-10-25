@@ -8,17 +8,15 @@
         "test": "echo \"No test specified\" && exit 1"
 //        "start": "node index.js"
     },
-/*   "repository": {
+  "repository": {
        "type": "git",
        "url": "git+https://github.com/AstroLive8333/fallout-terminal.git"
-   },*/
-   "author": "",
+   },
+   "author": "RobCo",
    "license": "ISC",
-   "dependencies": {
-     
-   }
-/*   "bugs": {
+
+   "bugs": {
        "url": "https://github.com/AstroLive8333/fallout-terminal/issues"
    },
-  "homepage": "https://github.com/AstroLive8333/fallout-terminal#readme"*/
+  "homepage": "https://github.com/AstroLive8333/fallout-terminal#readme"
 }
