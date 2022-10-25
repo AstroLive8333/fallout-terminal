@@ -1,20 +1,13 @@
 {
-    "name": "fallout-terminal",
-    "version": "1.0.0",
-    "description": "",
-    "scripts": {
-        "build": "echo \"No build specified\" && exit 1",
-        "test": "echo \"No test specified\" && exit 1",
-        "main": "node index.html"
-    },
-    "repository": {
-        "type": "git",
-       "url": "git+https://github.com/AstroLive8333/fallout-terminal.git"
-   },
-   "author": "",
-   "license": "ISC",
-   "bugs": {
-       "url": "https://github.com/AstroLive8333/fallout-terminal/issues"
-   },
-  "homepage": "https://github.com/AstroLive8333/fallout-terminal#readme"
-} 
+  "name": "RobCo Terminal",
+  "version": "1.0.0",
+  "description": "RobCo Industries Unified Operating System. Copyright 20175-2077 RobCo Industries",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
