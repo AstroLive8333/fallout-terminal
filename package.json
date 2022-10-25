@@ -4,9 +4,7 @@
     "description": "Copyright 20175-2077 RobCo Industries",
     "main": "index.html",
     "scripts": {
-//        "build": "echo \"No build specified\" && exit 1",
         "test": "echo \"No test specified\" && exit 1"
-//        "start": "node index.js"
     },
   "repository": {
        "type": "git",
